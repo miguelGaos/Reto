@@ -4,7 +4,7 @@ contador = 0
 Estado = True
 datosContadorExterno = [1] * 11
 numeros_repetidos = None
-frecuencias = [1] * 11
+frecuencias = [0] * 10
 
 while True:
     print("\n--- MENÚ ---")
